@@ -1,4 +1,4 @@
-### Olá! eu sou o Thiago Olivier
+### Olá, meu nome é Thiago. Bem-vindo(a) ao meu perfil :D
 
 <div>
    <a href="github.com/thiagoolivier">
