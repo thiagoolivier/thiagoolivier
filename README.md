@@ -1,4 +1,4 @@
-### Olá, meu nome é Thiago. Bem-vindo(a) ao meu perfil :D
+### Hi! my name is Thiago. Welcome to my profile :D
 
 <div>
    <a href="github.com/thiagoolivier">
