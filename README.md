@@ -9,6 +9,6 @@
 - 🔭 Today i'm working as a PHP Web Developer
 
 - 🌱 I’m currently improving my skills in web development, Laravel and UX Design
-
-- E-mail: thiagoolivier53@gmail.com,
+---------------------------------------------------------------------------------
+- E-mail: thiagoolivier53@gmail.com
 - Linkedin: https://www.linkedin.com/in/thiago-olivier-b48365202/
