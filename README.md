@@ -10,7 +10,5 @@
 
 - 🌱 I’m currently improving my skills in web development, Laravel and UX Design
 
-- 📫 Contact me through: {
-   'email': thiagoolivier53@gmail.com,
-   'linkedin': https://www.linkedin.com/in/thiago-olivier-b48365202/
- }
+- E-mail: thiagoolivier53@gmail.com,
+- Linkedin: https://www.linkedin.com/in/thiago-olivier-b48365202/
