@@ -1,4 +1,4 @@
-### Hi! my name is Thiago. Welcome to my profile :D
+### Hi! my name is Thiago. Welcome to my profile.
 
 <div>
    <a href="github.com/thiagoolivier">
@@ -6,6 +6,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoolivier&layout=compact">
 </div>
 
-- 🔭 Today i'm working as a programmer assistant
-- 🌱 I’m currently learning web development with PHP and Laravel and UX Design
-- 📫 My e-mail: thiagoolivier53@gmail.com
+- 🔭 Today i'm working as a PHP Web Developer
+
+- 🌱 I’m currently improving my skills in web development, Laravel and UX Design
+
+- 📫 Contact me through: {
+   'email': thiagoolivier53@gmail.com,
+   'linkedin': https://www.linkedin.com/in/thiago-olivier-b48365202/
+ }
