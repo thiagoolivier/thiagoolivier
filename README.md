@@ -1,12 +1,11 @@
-### Hi! my name is Thiago. Welcome to my profile.
+### Hello! my name is Thiago. Welcome to my profile.
 
-- Today i'm working as a PHP Web Developer
-- My main contributions actually are going to my actual job's software, where i use Laravel, HTML, Javascript, MySQL, and a lot of other tools
-- I’m currently improving my skills in Web Development in general, Laravel and UX Design
-- Also, i'm looking to build my skills around Vue.js
+- Today i'm working as a Web Developer.
+- My main contributions today are to my actual job's ERP, where i use Laravel, Javascript, MySQL, and other tools.
+- I’m currently improving my skills in Laravel, Vue.js and UX Design.
 
 ### All knowledge is few! :)
 ---------------------------------------------------------------------------------
 E-mail: dev.thiagoolivier@gmail.com
 <br>
-Linkedin: https://www.linkedin.com/in/thiago-olivier-b48365202/
+Linkedin: https://www.linkedin.com/in/thiagoolivier/
