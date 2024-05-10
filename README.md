@@ -1,4 +1,4 @@
-### Hey there! Thiago here. Welcome to my profile.
+### Hey there! Welcome to my profile.
 
 - I create solutions using Laravel (PHP), MySQL, Vue.js and other nice little tools.
 
