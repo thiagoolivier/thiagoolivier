@@ -7,3 +7,6 @@
 - Portfolio: https://thiagoolivier.github.io/
 - E-mail: dev.thiagoolivier@gmail.com
 - Linkedin: https://www.linkedin.com/in/thiagoolivier/
+
+
+<img src="https://myreadme.vercel.app/api/embed/thiagoolivier?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
