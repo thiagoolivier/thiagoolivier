@@ -1,7 +1,9 @@
 ### Hi! Welcome to my profile.
 
-- Currently working as Software Developer @ Fretatech.
-- Using PHP, JavaScript/TypeScript, SQL, Ubuntu, Laravel, Nuxt, JQuery, MySQL, Figma and other tools.
+- Currently working as Fullstack Software Developer
+- Using PHP, JavaScript/TypeScript, SQL, Ubuntu, Laravel, Nuxt, JQuery, MySQL, Figma and other tools
+- I also like devops/infra
+- I create software since 2022
 
 #### Find me elsewhere:
 <div>
