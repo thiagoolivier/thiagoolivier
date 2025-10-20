@@ -1,14 +1,22 @@
-### Hi! Welcome to my profile.
+### Hi!
+My name is Thiago. I'm a fullstack software developer working with PHP/Laravel and Vue.js at [Fretatech](https://fretatech.com.br/).
+I like music, gaming, nature and quality time with family & friends.
 
-- Currently working as Fullstack Software Developer
-- Using PHP, JavaScript/TypeScript, SQL, Ubuntu, Laravel, Nuxt, JQuery, MySQL, Figma and other tools
-- I also like devops/infra
-- I create software since 2022
+#### Currently working on:
+- Fretatech as a FS Software Developer
+- Sometimes I do freelancing
 
-#### Find me elsewhere:
-<div>
-  <a href="https://www.linkedin.com/in/thiagoolivier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"></a>
-  <a href = "mailto:dev.thiagoolivier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
-</div>
+#### My tech stack:
+- PHP/Laravel
+- Vue.js/Nuxt.js
+- JavaScript/TypeScript
+- SQL/NoSQL
+- Essential DevOps knowledge
+- UX/UI & Figma
 
+#### How to reach me:
+- Linkedin: https://www.linkedin.com/in/thiagoolivier
+- Email: dev.thiagoolivier@gmail.com
+
+---
 Note: I'm currently using BitBucket in a daily basis, so my active days here may seem to be empty.
