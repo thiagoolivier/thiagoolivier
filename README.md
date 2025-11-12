@@ -1,10 +1,9 @@
 ### Hi!
-My name is Thiago. I'm a fullstack software developer working with PHP/Laravel and Vue.js at [Fretatech](https://fretatech.com.br/).
+My name is Thiago. I'm a fullstack software developer working with PHP/Laravel and Vue.js.
 I like music, gaming, nature and quality time with family & friends.
 
-#### Currently working on:
-- Fretatech as a FS Software Developer
-- Sometimes I do freelancing
+#### Currently working as:
+- FullStack Software Developer
 
 #### My tech stack:
 - PHP/Laravel
