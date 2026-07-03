@@ -7,9 +7,10 @@ I like music, gaming, nature and quality time with family & friends.
 
 #### My tech stack:
 - PHP/Laravel
+- - JavaScript/TypeScript
 - Vue.js/Nuxt.js
-- JavaScript/TypeScript
-- SQL/NoSQL
+- React.js
+- SQL (MySQL, Postgres)
 - Essential DevOps knowledge
 - UX/UI & Figma
 
