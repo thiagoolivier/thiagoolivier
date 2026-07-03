@@ -6,11 +6,13 @@ I like music, gaming, nature and quality time with family & friends.
 - FullStack Software Developer
 
 #### My tech stack:
-- PHP/Laravel
-- - JavaScript/TypeScript
+- PHP
+- Laravel
+- JavaScript
+- TypeScript
 - Vue.js/Nuxt.js
 - React.js
-- SQL (MySQL, Postgres)
+- MySQL
 - Essential DevOps knowledge
 - UX/UI & Figma
 
